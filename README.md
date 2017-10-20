@@ -8,3 +8,6 @@ git command
 <br/>
 `内容制作中`
 <br/>
+
+目前制作进度：
+<img src="https://github.com/Kuri-su/git-mind-Mapping-by-command/blob/master/git.png" />
