@@ -13,3 +13,5 @@ git command
 
 目前制作进度：
 ![image](https://github.com/Kuri-su/git-mind-Mapping-by-command/blob/master/git.png "showPNG")<br/>
+
+[原始图](https://raw.githubusercontent.com/Kuri-su/git-mind-Mapping-by-command/master/git.png "pic" )
