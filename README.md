@@ -13,8 +13,8 @@
 [原始图](https://raw.githubusercontent.com/Kuri-su/git-mind-Mapping-by-command/master/git.png "pic" )
 
 ## 更新计划：
-* 目前个人觉得看起来有些凌乱，之后有时间的话会将指令分类
-* 目前指令过于偏初级，很多高级指令没有列举出来，可能也与个人水平有关，之后会尽量加强这块，<br>也欢迎觉得这个项目有意思的朋友PR（虽然自己开始觉得没啥意思了XD）
+* 排版有些凌乱，可能会将指令分类
+* 指令过于偏初级，很多高级指令没有列举出来，与个人水平也有关，之后会尽量加强这块，<br>也欢迎觉得这个项目有意思的朋友PR（虽然自己开始觉得没啥意思了XD）
 
 ## LICENSE
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>MIT</b>
