@@ -1,5 +1,5 @@
 # git-mind-Mapping-by-command
-<small> 按指令分类的git 思维导图</small>
+:notebook: <small> 按指令分类的git 思维导图</small>
 <hr/>
 
 > 思维导图使用Xmind制作<br>
