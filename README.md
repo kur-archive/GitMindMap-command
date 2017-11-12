@@ -7,14 +7,15 @@
 > 切勿使用Photoshop修改
 
 
-目前制作进度(基本完成)：
-![image](https://github.com/Kuri-su/git-mind-Mapping-by-command/blob/master/git.png "showPNG")<br/>
+目前制作进度：
+* 基本完成，逐步添加新的指令和排版中
+![image](https://github.com/Kuri-su/gitMindmap-by-command/blob/master/Git%20V2.7.4.svg "showPNG")<br/>
 
-[原始图](https://raw.githubusercontent.com/Kuri-su/git-mind-Mapping-by-command/master/git.png "pic" )
+[原始图](https://raw.githubusercontent.com/Kuri-su/gitMindmap-by-command/master/Git%20V2.7.4.png "pic" )
 
 ## 更新计划：
-* 排版有些凌乱，可能会将指令分类
-* 指令过于偏初级，很多高级指令没有列举出来，与个人水平也有关，之后会尽量加强这块，<br>也欢迎觉得这个项目有意思的朋友PR（虽然自己开始觉得没啥意思了XD）
+* 排版有些凌乱，可能会将指令分类（进行中）
+* 指令过于偏初级，很多高级指令没有列举出来，与个人水平也有关，之后会尽量加强这块，<br>也欢迎觉得这个项目有意思的朋友PR
 
 ## LICENSE
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>MIT</b>
