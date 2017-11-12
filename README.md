@@ -12,9 +12,9 @@
 
 ![image](https://github.com/Kuri-su/gitMindmap-by-command/blob/master/Git%20V2.7.4.png "showPNG")<br/>
 
-:tv:[原始图](https://raw.githubusercontent.com/Kuri-su/gitMindmap-by-command/master/Git%20V2.7.4.png "pic" )
-<br/>
-:sparkles:[SVG格式](https://github.com/Kuri-su/gitMindmap-by-command/blob/master/Git%20V2.7.4.svg "pic" )
+* :star2:[原始图](https://raw.githubusercontent.com/Kuri-su/gitMindmap-by-command/master/Git%20V2.7.4.png "pic" ):star2:
+
+* :sparkles:[SVG格式](https://github.com/Kuri-su/gitMindmap-by-command/blob/master/Git%20V2.7.4.svg "pic" ):sparkles:
 
 ## 更新计划：
 * 排版有些凌乱，逐步会将指令分类（进行中）
