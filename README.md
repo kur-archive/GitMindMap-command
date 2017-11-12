@@ -8,13 +8,16 @@
 
 
 目前制作进度：
-* 基本完成，逐步添加新的指令和排版中
-![image](https://github.com/Kuri-su/gitMindmap-by-command/blob/master/Git%20V2.7.4.svg "showPNG")<br/>
+> 基本完成，逐步添加新的指令和排版中
 
-[原始图](https://raw.githubusercontent.com/Kuri-su/gitMindmap-by-command/master/Git%20V2.7.4.png "pic" )
+![image](https://github.com/Kuri-su/gitMindmap-by-command/blob/master/Git%20V2.7.4.png "showPNG")<br/>
+
+:tv:[原始图](https://raw.githubusercontent.com/Kuri-su/gitMindmap-by-command/master/Git%20V2.7.4.png "pic" )
+<br/>
+:sparkles:[SVG格式](https://github.com/Kuri-su/gitMindmap-by-command/blob/master/Git%20V2.7.4.svg "pic" )
 
 ## 更新计划：
-* 排版有些凌乱，可能会将指令分类（进行中）
+* 排版有些凌乱，逐步会将指令分类（进行中）
 * 指令过于偏初级，很多高级指令没有列举出来，与个人水平也有关，之后会尽量加强这块，<br>也欢迎觉得这个项目有意思的朋友PR
 
 ## LICENSE
