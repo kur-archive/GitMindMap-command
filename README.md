@@ -18,3 +18,7 @@
 
 ## LICENSE
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>MIT</b>
+
+<br/>
+
+> git clean -f -d 好用!一级棒www XD
