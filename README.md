@@ -14,7 +14,7 @@
 
 :star2:[原始图](https://raw.githubusercontent.com/Kuri-su/gitMindmap-by-command/master/Git%20V2.7.4.png "pic" ):star2:
  
-:sparkling_heart:[pdf](https://github.com/Kuri-su/gitMindmap-by-command/blob/master/Git%20V2.7.4.pdf "pdf" ):sparkling_heart:
+:sparkling_heart:[ PDF ](https://github.com/Kuri-su/gitMindmap-by-command/blob/master/Git%20V2.7.4.pdf "pdf" ):sparkling_heart:
 
 :sparkles:[SVG格式](https://github.com/Kuri-su/gitMindmap-by-command/blob/master/Git%20V2.7.4.svg "svg" ):sparkles:
 
