@@ -12,9 +12,11 @@
 
 ![image](https://github.com/Kuri-su/gitMindmap-by-command/blob/master/Git%20V2.7.4.png "showPNG")<br/>
 
- :star2:[原始图](https://raw.githubusercontent.com/Kuri-su/gitMindmap-by-command/master/Git%20V2.7.4.png "pic" ):star2:
+:star2:[原始图](https://raw.githubusercontent.com/Kuri-su/gitMindmap-by-command/master/Git%20V2.7.4.png "pic" ):star2:
+ 
+:sparkling_heart:[pdf](https://github.com/Kuri-su/gitMindmap-by-command/blob/master/Git%20V2.7.4.pdf "pdf" ):sparkling_heart:
 
- :sparkles:[SVG格式](https://github.com/Kuri-su/gitMindmap-by-command/blob/master/Git%20V2.7.4.svg "svg" ):sparkles:
+:sparkles:[SVG格式](https://github.com/Kuri-su/gitMindmap-by-command/blob/master/Git%20V2.7.4.svg "svg" ):sparkles:
 
 :bath:[download path](https://github.com/Kuri-su/gitMindmap-by-command/archive/v0.1.tar.gz "download path" ):bath:
 
