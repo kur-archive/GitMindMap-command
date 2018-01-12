@@ -24,6 +24,7 @@
 
 在[releases](https://github.com/Kuri-su/gitMindmap-by-command/releases)中也可以选择下载
 ## 更新计划：
+* 添加 submodule 和 subtree
 * 排版有些凌乱，逐步会将指令分类（进行中）
 * 指令过于偏初级，很多高级指令没有列举出来，与个人水平也有关，之后会尽量加强这块，<br>也欢迎觉得这个项目有意思的朋友PR
 
