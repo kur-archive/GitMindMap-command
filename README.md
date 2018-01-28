@@ -24,7 +24,9 @@
 
 在[releases](https://github.com/Kuri-su/gitMindmap-by-command/releases)中也可以选择下载
 ## 更新计划：
-* 指令过于偏初级，很多高级指令没有列举出来，与个人水平也有关，之后会尽量加强这块，<br>也欢迎觉得这个项目有意思的朋友PR
+* 指令过于偏初级，很多高级指令没有列举出来
+
+也欢迎觉得这个项目有意思的朋友PR
 
 ## LICENSE
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>MIT</b>
