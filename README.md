@@ -1,4 +1,4 @@
-# git-mind-Mapping-by-command
+# GitMindMap-command
 :notebook: <small> 按指令分类的git 思维导图</small>
 <hr/>
 
