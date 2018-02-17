@@ -21,6 +21,7 @@
 在[releases](https://github.com/Kuri-su/gitMindmap-by-command/releases)中也可以选择下载
 ## 更新计划：
 * 指令过于偏初级，很多高级指令没有列举出来
+* 新建一张图，添加每个指令的各个参数讲解
 
 也欢迎觉得这个项目有意思的朋友PR
 
