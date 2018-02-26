@@ -1,5 +1,5 @@
 # GitMindMap-command
-:notebook: <small> 按指令分类的git 思维导图</small>
+:blue_book: <small> 按指令分类的git 思维导图</small>
 <hr/>
 
 > 思维导图使用Xmind制作<br>
@@ -12,13 +12,13 @@
 
 ![image](https://github.com/Kuri-su/gitMindmap-by-command/blob/master/Git%20V2.7.4.png "showPNG")<br/>
 
-:star2:[原始图](https://raw.githubusercontent.com/Kuri-su/gitMindmap-by-command/master/Git%20V2.7.4.png "pic" ):star2:
+:sparkles:[原始图](https://raw.githubusercontent.com/Kuri-su/gitMindmap-by-command/master/Git%20V2.7.4.png "pic" ):sparkles:
 
-:sparkling_heart:[ PDF ](https://github.com/Kuri-su/gitMindmap-by-command/blob/master/Git%20V2.7.4.pdf "pdf" ):sparkling_heart:
+:crystal_ball:[ PDF ](https://github.com/Kuri-su/gitMindmap-by-command/blob/master/Git%20V2.7.4.pdf "pdf" ):crystal_ball:
 
-:bath:[download path](https://github.com/Kuri-su/gitMindmap-by-command/archive/v0.1.tar.gz "download path" ):bath:
+:gift:[download path](https://github.com/Kuri-su/gitMindmap-by-command/archive/v0.1.tar.gz "download path" ):gift:
 
-在[releases](https://github.com/Kuri-su/gitMindmap-by-command/releases)中也可以选择下载
+在 [releases](https://github.com/Kuri-su/gitMindmap-by-command/releases) 中也可以选择下载
 ## 更新计划：
 * 指令过于偏初级，很多高级指令没有列举出来
 
