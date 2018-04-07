@@ -1,15 +1,16 @@
 # GitMindMap-command
+
 :blue_book: <small> 按指令分类的git 思维导图</small>
 
-<hr/>
+---
 
 > 个人的 Git 笔记，也欢迎 PR 和 Star
 
-> 思维导图使用Xmind XEN制作<br>
-> 如需修改请使用Xmind修改git.xmind然后导出生成png图片<br>
+> 思维导图使用Xmind XEN制作  
+> 如需修改请使用Xmind修改git.xmind然后导出生成png图片  
 > 切勿使用Photoshop修改
 
-![image](https://github.com/Kuri-su/gitMindmap-by-command/blob/master/Git%20V2.16.2.png "showPNG")<br/>
+![image](https://github.com/Kuri-su/gitMindmap-by-command/blob/master/Git%20V2.16.2.png "showPNG")   
 
 :sparkles:[原始图](https://raw.githubusercontent.com/Kuri-su/gitMindmap-by-command/master/Git%20V2.16.2.png "pic" ):sparkles:
 
@@ -25,4 +26,5 @@
 * 增加一张图，列举各个指令的全部详细参数
 
 ## LICENSE
+
 **MIT**
