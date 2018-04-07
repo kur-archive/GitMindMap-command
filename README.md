@@ -9,11 +9,11 @@
 > 如需修改请使用Xmind修改git.xmind然后导出生成png图片<br>
 > 切勿使用Photoshop修改
 
-![image](https://github.com/Kuri-su/gitMindmap-by-command/blob/master/Git%20V2.7.4.png "showPNG")<br/>
+![image](https://github.com/Kuri-su/gitMindmap-by-command/blob/master/Git%20V2.16.2.png "showPNG")<br/>
 
-:sparkles:[原始图](https://raw.githubusercontent.com/Kuri-su/gitMindmap-by-command/master/Git%20V2.7.4.png "pic" ):sparkles:
+:sparkles:[原始图](https://raw.githubusercontent.com/Kuri-su/gitMindmap-by-command/master/Git%20V2.16.2.png "pic" ):sparkles:
 
-:crystal_ball:[ PDF ](https://github.com/Kuri-su/gitMindmap-by-command/blob/master/Git%20V2.7.4.pdf "pdf" ):crystal_ball:
+:crystal_ball:[ PDF ](https://github.com/Kuri-su/gitMindmap-by-command/blob/master/Git%20V2.16.2.pdf "pdf" ):crystal_ball:
 
 :gift:[download path](https://github.com/Kuri-su/gitMindmap-by-command/archive/v0.1.tar.gz "download path" ):gift:
 
