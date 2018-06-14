@@ -23,6 +23,15 @@
 ## 更新计划：
 
 * add git commit -v
+* https://zhuanlan.zhihu.com/p/25981830
+  * pretty 部分
+   * oneline: 指定一行输出一条提交记录；
+   * short: 指定按原格式输出简要信息；
+   * full: 指定按原格式输出信息；
+   * fuller: 指定按原格式输出更多信息；
+* fix git log --stat 的描述
+* add git log -p
+* 
 * 添加更加冷门的指令和底层指令
 * 增加一张图，列举各个指令的全部详细参数
 
