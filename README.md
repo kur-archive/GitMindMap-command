@@ -4,8 +4,7 @@
 
 ---
 
-* 请查看 [**release**](https://github.com/Kuri-su/GitMindMap-command/releases)
-* 在 [releases](https://github.com/Kuri-su/GitMindMap-command/releases) 中选择下载
+* 请查看 [**release**](https://github.com/Kuri-su/GitMindMap-command/releases) , 在 [**releases**](https://github.com/Kuri-su/GitMindMap-command/releases) 中选择下载
 
 > 个人的 Git 笔记，也欢迎 PR 和 Star
 
