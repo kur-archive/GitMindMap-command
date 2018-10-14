@@ -10,7 +10,7 @@
 > 如需修改请使用 Xmind 修改 git.xmind 然后导出生成 png 图片  
 > 切勿使用 Photoshop 修改
 
-![image](https://github.com/Kuri-su/GitMindMap-command/releases/download/0.1.1/Git_V2.16.2.png "showPNG")   
+![image](https://github.com/Kuri-su/GitMindMap-command/blob/master/Git_V2.16.2.png "showPNG")   
 
 :sparkles:[原始图](https://raw.githubusercontent.com/Kuri-su/GitMindMap-command/master/Git_V2.16.2.png "pic" ):sparkles:
 
