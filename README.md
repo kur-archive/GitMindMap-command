@@ -6,9 +6,9 @@
 
 > 个人的 Git 笔记，也欢迎 PR 和 Star
 
-> 思维导图使用Xmind XEN制作  
-> 如需修改请使用Xmind修改git.xmind然后导出生成png图片  
-> 切勿使用Photoshop修改
+> 思维导图使用 Xmind XEN 制作  
+> 如需修改请使用 Xmind 修改 git.xmind 然后导出生成 png 图片  
+> 切勿使用 Photoshop 修改
 
 ![image](https://github.com/Kuri-su/GitMindMap-command/blob/master/Git_V2.16.2.png "showPNG")   
 
@@ -28,3 +28,6 @@
 ## LICENSE
 
 **MIT**
+
+## Other
+~~把这些二进制文件都放到这个 Repo 里是一个非常愚蠢的决定~~
