@@ -13,14 +13,9 @@
 > 如需修改请使用 Xmind 修改 git.xmind 然后导出生成 png 图片  
 > 切勿使用 Photoshop 修改
 
-![image](https://github.com/kurisu-public/GitMindMap-command-img/blob/master/Git_V2.16.2.png "showPNG")   
+:sparkles:[**原始图**](https://github.com/kurisu-public/GitMindMap-command-img/blob/master/Git_V2.16.2.png?raw=true "pic" ):sparkles:
 
-:sparkles:[原始图](https://github.com/kurisu-public/GitMindMap-command-img/blob/master/Git_V2.16.2.png?raw=true "pic" ):sparkles:
-
-:crystal_ball:[ PDF ](https://github.com/Kuri-su/GitMindMap-command/blob/master/Git_V2.16.2.pdf "pdf" ):crystal_ball:
-
-:gift:[download path](https://github.com/Kuri-su/GitMindMap-command/archive/0.1.zip "download path" ):gift:
-
+:crystal_ball:[**release**](https://github.com/Kuri-su/GitMindMap-command/releases "pdf" ):crystal_ball:
 
 
 ## 更新计划：
