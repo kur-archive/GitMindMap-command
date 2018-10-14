@@ -17,6 +17,7 @@
 
 :crystal_ball:[**release**](https://github.com/Kuri-su/GitMindMap-command/releases "pdf" ):crystal_ball:
 
+![image](https://github.com/kurisu-public/GitMindMap-command-img/blob/master/Git_V2.16.2.png?raw=true "showPNG")   
 
 ## 更新计划：
 
