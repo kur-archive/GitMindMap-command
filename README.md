@@ -19,7 +19,6 @@
 
 ## 更新计划：
 
-* add git commit -v
 * 添加更加冷门的指令和底层指令
 
 ## LICENSE
