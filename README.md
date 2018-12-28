@@ -1,6 +1,6 @@
 # GitMindMap-command
 
-:blue_book: <small> 按指令分类的git 思维导图</small>
+:blue_book: <small> 按指令分类的 Git 思维导图</small>
 
 ---
 
