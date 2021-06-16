@@ -27,3 +27,8 @@
 
 ## Other
 ~~把这些二进制文件都放到这个 Repo 里是一个非常愚蠢的决定~~
+
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/kur-archive/GitMindMap-command.svg)](https://starchart.cc/kur-archive/GitMindMap-command)
+      
